@@ -94,9 +94,6 @@ flipkart_sentiment/
 
 The custom Logistic Regression model achieves robust accuracy on the test set, effectively distinguishing between positive and negative feedback even in complex sentences.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/srini2727/flipkart-sentiment-analysis/issues).
 
 ---
 
