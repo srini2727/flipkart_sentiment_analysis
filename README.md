@@ -97,7 +97,7 @@ The custom Logistic Regression model achieves robust accuracy on the test set, e
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/flipkart-sentiment-analysis/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/srini2727/flipkart-sentiment-analysis/issues).
 
 ---
-*Built with ❤️ by [Your Name](https://github.com/yourusername)*
+
