@@ -2,8 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 
 An end-to-end Sentiment Analysis Machine Learning project that classifies Flipkart product reviews as Positive or Negative. This project demonstrates a full NLP pipeline—from data cleaning and preprocessing to model training and interactive deployment using Streamlit.
 

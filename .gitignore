@@ -8,7 +8,7 @@ venv/
 env/
 
 # Data
-data/
+# data/  <-- Commented out to allow pushing to GitHub for Streamlit Cloud
 *.csv
 
 # Streamlit
